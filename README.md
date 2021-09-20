@@ -28,7 +28,7 @@ pip install sympy
   ```bash
   python ./rsa.py
   ```
-  Keep the newly generated public and private keys aside
+  Keep the newly generated public and private keys aside.
   The public and private keys are printed at the end
 * In a new terminal, execute server.py and keep it open on waiting
   ```bash
